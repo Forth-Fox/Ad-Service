@@ -1,12 +1,4 @@
 {
-  "success": false,
-  "dialogmovetype": 1,
-  "dialogversioncode": 1,
-  "dialogtitle": "Sample Dialog Title",
-  "dialogdescription": "This is a sample dialog description.",
-  "dialogbuttonlink": "",
-  "dialogbuttonname": "Click Here",
-  "dialogbuttonskipname": "",
   "adspriority": 1,
   "facebookbanner": "",
   "facebooknative": "",
@@ -34,6 +26,4 @@
   "whichonebottomads": 2,
   "ads": true,
   "navigation": false,
-  "appstop": false,
-  "appstoptext": ""
 }
