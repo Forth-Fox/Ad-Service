@@ -1,8 +1,8 @@
 {
   "adspriority": 1,
-  "facebookbanner": "",
-  "facebooknative": "",
-  "facebookinter": "",
+  "facebookbanner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebooknative": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebookinter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "googlebanner": "ca-app-pub-3940256099942544/9214589741",
   "googlenative": "ca-app-pub-3940256099942544/2247696110",
   "googleinter": "ca-app-pub-3940256099942544/1033173712",
